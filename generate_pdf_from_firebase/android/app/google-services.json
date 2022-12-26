@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672804439104",
+    "project_id": "firestore-3afbd",
+    "storage_bucket": "firestore-3afbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672804439104:android:878690b0a5d74ef6b08ba5",
+        "android_client_info": {
+          "package_name": "com.example.generate_pdf_from_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672804439104-ress85ajrl9jgd6v21ffjvr24ng9s5n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWG5pfsV9Pd4OI279u7-iJEyCSHeHhtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672804439104-ress85ajrl9jgd6v21ffjvr24ng9s5n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
