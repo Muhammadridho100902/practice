@@ -14,9 +14,12 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         // Remove the debug banner
         debugShowCheckedModeBanner: false,
-        title: 'Kindacode.com',
+        title: 'Note App',
         theme: ThemeData(
           primarySwatch: Colors.orange,
+          appBarTheme: AppBarTheme(
+            centerTitle: true,
+          )
         ),
         home: const HomePage());
   }
